@@ -34,7 +34,7 @@ I'm an IT student passionate about **databases, web development, and software pr
 ---
 
 ⭐ Fun fact: I love working on projects that make tasks easier and learning anything new about IT!
-## Hi there 👋
+
 
 <!--
 **shelomithanyango/shelomithanyango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
